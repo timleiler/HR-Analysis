@@ -9,5 +9,7 @@ I present an end-to-end HR data analysis project showcasing automated workflows 
 
 # Data Cleaning
 
+# Direct Action
+
 # Basic Visualizations
 
